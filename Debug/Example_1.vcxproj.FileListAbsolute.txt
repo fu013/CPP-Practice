@@ -1,0 +1,2 @@
+C:\Users\82109\Desktop\C++ 프로그래밍\Example_1\Debug\Example_1.exe
+C:\Users\82109\Desktop\C++ 프로그래밍\Example_1\Debug\Example_1.pdb
